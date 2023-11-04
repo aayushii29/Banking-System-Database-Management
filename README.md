@@ -1,1 +1,2 @@
 # Banking-System-Database-Management
+This program serves as a database manager overseeing a country's complex banking system. It utilizes a hashmap to efficiently store and manage bank account information. The program implements various collision resolution strategies, such as chaining, linear probing, quadratic probing, cubic probing, and a custom competitive strategy, to ensure data integrity and accessibility.
